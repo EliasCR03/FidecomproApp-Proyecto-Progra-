@@ -27,7 +27,7 @@ El sistema permite registrar, listar y guardar información usando colecciones y
 ---
 
 ## 👨‍💻 Autor
-Elias Campos  
+Elias Valerio Campos  
 Estudiante de Ingeniería en Seguridad de la Información - Universidad Fidélitas
 
 ---
